@@ -19,7 +19,7 @@
 
 .timer{ 
   font-family: 'Press Start 2P', cursive;
-  font-size: 3em;
+  font-size: 2em;
 }
 
 .pokeWrap{
@@ -36,5 +36,10 @@
   font-family: 'Press Start 2P', cursive;
   text-transform: uppercase;
   margin-top: -50px;
+}
+
+.heading {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3em;
 }
 
